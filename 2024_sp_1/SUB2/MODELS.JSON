@@ -1,0 +1,58 @@
+{
+    "models": [
+      {
+        "modelname": "cinema review",
+        "classes": [
+          {
+            "code": "p8aEz10h",
+            "value": "positive"
+          },
+          {
+            "code": "KjuO803l",
+            "value": "negative"
+          }
+        ],
+        "url": "http://127.0.0.1:9010"
+      },
+      {
+        "modelname": "4 emotion",
+        "classes": [
+          {
+            "code": "91muGG3s",
+            "value": "joy"
+          },
+          {
+            "code": "p8aEz10h",
+            "value": "sadness"
+          },
+          {
+            "code": "7y7hyu26",
+            "value": "fear"
+          },
+          {
+            "code": "bb7aj05a",
+            "value": "anger"
+          }
+        ],
+        "url": "http://127.0.0.1:9020"
+      },
+      {
+        "modelname": "truth or lie",
+        "classes": [
+          {
+            "code": "10011001",
+            "value": "truth"
+          },
+          {
+            "code": "100",
+            "value": "lie"
+          },
+          {
+            "code": "10001000",
+            "value": "neutral"
+          }
+        ],
+        "url": "http://127.0.0.1:9030"
+      }
+    ]
+  }
